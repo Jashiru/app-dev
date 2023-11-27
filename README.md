@@ -1,7 +1,5 @@
 # app-dev
 My first repository
-![alt text](image.jpg)
-
 
 # McQueen
 # Steve McQueen, often hailed as "The King of Cool," left an indelible mark on the world of cinema. Born on March 24, 1930, in Beech Grove, Indiana, he rose to fame in the 1960s and 1970s with iconic roles in films such as "Bullitt," "The Great Escape," and "The Thomas Crown Affair." McQueen's on-screen charisma, rugged demeanor, and a penchant for performing his own stunts set him apart as one of Hollywood's most influential actors.
